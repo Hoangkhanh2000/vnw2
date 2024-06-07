@@ -17,11 +17,11 @@ import (
 )
 
 const (
-	appName        = "Brainfuck Tunnel"
-	appVersionName = "Psiphon Pro Go"
+	appName        = "4G"
+	appVersionName = "Khanh"
 	appVersionCode = "1.3.210109"
 
-	copyrightYear   = "2020"
+	copyrightYear   = "2024"
 	copyrightAuthor = "Aztec Rabbit"
 )
 
